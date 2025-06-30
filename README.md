@@ -1,7 +1,6 @@
 # 🧳 Travel Planner
 
-A lightweight CLI-based travel planner built with Python and SQLite.  
-Helps you store, view, and manage your trips from the terminal.
+A lightweight CLI-based travel planner built with Python and SQLite. Helps you store, view, and manage your trips from the terminal.
 
 
 ## 📌 Features
